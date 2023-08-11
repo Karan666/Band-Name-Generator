@@ -35,6 +35,18 @@ cd SymphonicNomad-Band-Moniker-Maven
 npm install
 ```
 
+```bash
+npm install express
+```
+
+```bash
+npm install ejs
+```
+
+```bash
+npm install body-parser
+```
+
 
 ## USAGE
 
