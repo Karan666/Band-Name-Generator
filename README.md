@@ -22,7 +22,7 @@ The application includes the following files:
 
 1. Clone the repository to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/SymphonicNomad-Band-Moniker-Maven.git
+git clone https://github.com/Karan666/SymphonicNomad-Band-Moniker-Maven.git
 ```
 
 2. Navigate to the project directory:
