@@ -9,14 +9,6 @@ The Band Name Generator web application is built using Node.js and the Express.j
 
 The application includes the following files:
 
-- footer.ejs: Defines the footer section of the HTML template, including the copyright information.
-- header.ejs: Contains the header section of the HTML template, including meta tags and a link to an external CSS file.
-- index.ejs: The main content of the web page. It displays the generated band name or a welcome message and includes a form to generate a new name.
-- index.js: The main server file. It sets up the Express server, handles routes, and generates and displays random band names.
-- public/: A directory containing static files, such as styles and scripts.
-- styles/main.css: The main stylesheet for the application.
-- README.md: This file, providing information about the project.
-
 
 ## INSTALLATION
 
