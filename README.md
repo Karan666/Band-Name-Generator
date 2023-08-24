@@ -32,19 +32,7 @@ cd SymphonicNomad-Band-Moniker-Maven
 
 3. Install the required dependencies using npm:
 ```bash
-npm install
-```
-
-```bash
-npm install express
-```
-
-```bash
-npm install ejs
-```
-
-```bash
-npm install body-parser
+npm install express ejs body-parser
 ```
 
 
